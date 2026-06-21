@@ -1,4 +1,4 @@
-Automated Inventory
+# Automated Inventory
 An automated tool to manage inventory and research market prices. The script monitors local stock levels and scrapes real-time pricing for items requiring a restock.
 
 Key Features
@@ -31,3 +31,6 @@ Ensure your inventory.csv is in the project folder.
 Run the script:
 
 python main.py
+
+
+
