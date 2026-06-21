@@ -1,0 +1,11 @@
+# Ignore inventory and data files
+inventory.csv
+combined_data.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE specific folders
+.vscode/
+.idea/
